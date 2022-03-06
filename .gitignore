@@ -1,8 +1,7 @@
 ######################################################################
 # Build Tools
 node_modules/
-uni_modules/
-uview-ui/
+
 
 .gradle
 /build/
